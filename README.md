@@ -17,6 +17,6 @@ Features:
 
 This project was built to practice frontend development.
 
-""This project is for educational purpose only and is not afflicated with amazon""
+**This project is for educational purpose only and is not afflicated with amazon**
 
 
